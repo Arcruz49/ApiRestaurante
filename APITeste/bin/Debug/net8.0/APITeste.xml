@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APITeste</name>
+    </assembly>
+    <members>
+        <member name="T:APITeste.Controllers.CardapioController">
+            <summary>
+            Controlador para gerenciar produtos.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.CardapioController.#ctor(APITeste.Data.DbRestauranteContext)">
+            <summary>
+            Construtor do controlador de produtos.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.CardapioController.GetProdutos">
+            <summary>
+            Retorna todos os produtos.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.CardapioController.GetProdutoPorId(System.Int32)">
+            <summary>
+            Retorna um produto específico pelo ID.
+            </summary>
+            <param name="id">ID do produto.</param>
+        </member>
+        <member name="M:APITeste.Controllers.CardapioController.CreateProduto(APITeste.Models.CadCardapio)">
+            <summary>
+            Cria um novo produto.
+            </summary>
+            <param name="produto">Objeto produto.</param>
+        </member>
+        <member name="M:APITeste.Controllers.CardapioController.AtualizaProduto(System.Int32,APITeste.Models.CadCardapio)">
+            <summary>
+            Atualiza um produto existente.
+            </summary>
+            <param name="id">ID do produto.</param>
+            <param name="produto">Dados atualizados do produto.</param>
+        </member>
+        <member name="M:APITeste.Controllers.CardapioController.DeleteProduto(System.Int32)">
+            <summary>
+            Exclui um produto.
+            </summary>
+            <param name="id">ID do produto.</param>
+        </member>
+        <member name="M:APITeste.Controllers.CardapioController.ProdutoExists(System.Int32)">
+            <summary>
+            Verifica se o produto existe pelo ID.
+            </summary>
+        </member>
+        <member name="T:APITeste.Controllers.ClientesController">
+            <summary>
+            Controlador para gerenciar clientes.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.ClientesController.#ctor(APITeste.Data.DbRestauranteContext)">
+            <summary>
+            Construtor do controlador de clientes.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.ClientesController.GetClientes">
+            <summary>
+            Retorna todos os clientes.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.ClientesController.GetClientePorId(System.Int32)">
+            <summary>
+            Retorna um cliente específico pelo ID.
+            </summary>
+            <param name="id">ID do cliente.</param>
+        </member>
+        <member name="M:APITeste.Controllers.ClientesController.CreateCliente(APITeste.Models.CadCliente)">
+            <summary>
+            Cria um novo cliente.
+            </summary>
+            <param name="cliente">Objeto cliente.</param>
+        </member>
+        <member name="M:APITeste.Controllers.ClientesController.AtualizaCliente(System.Int32,APITeste.Models.CadCliente)">
+            <summary>
+            Atualiza um cliente existente.
+            </summary>
+            <param name="id">ID do cliente.</param>
+            <param name="cliente">Dados atualizados do cliente.</param>
+        </member>
+        <member name="M:APITeste.Controllers.ClientesController.DeleteCliente(System.Int32)">
+            <summary>
+            Exclui um cliente.
+            </summary>
+            <param name="id">ID do cliente.</param>
+        </member>
+        <member name="M:APITeste.Controllers.ClientesController.ClienteExists(System.Int32)">
+            <summary>
+            Verifica se o cliente existe pelo ID.
+            </summary>
+        </member>
+    </members>
+</doc>
