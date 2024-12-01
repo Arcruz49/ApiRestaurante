@@ -70,6 +70,7 @@ namespace APITeste.Controllers
             db.CadReservas.Add(reserva);
             await db.SaveChangesAsync();
 
+
             return CreatedAtAction(nameof(GetReservaPorId), new { id = reserva.CdReserva });
         }
 

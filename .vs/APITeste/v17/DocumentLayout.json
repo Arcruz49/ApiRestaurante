@@ -66,8 +66,7 @@
               "RelativeToolTip": "APITeste\\Models\\CadPedidoPrato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T23:28:56.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:28:56.194Z"
             },
             {
               "$type": "Document",
@@ -77,7 +76,7 @@
               "RelativeDocumentMoniker": "APITeste\\Controllers\\ReservasController.cs",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\ReservasController.cs",
               "RelativeToolTip": "APITeste\\Controllers\\ReservasController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAmwE8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T23:07:34.423Z",
               "EditorCaption": ""
@@ -92,8 +91,7 @@
               "RelativeToolTip": "APITeste\\Models\\CadReserva.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T23:06:40.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:06:40.932Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "APITeste\\Models\\CadMesa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T21:50:24.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T21:50:24.099Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "APITeste\\Controllers\\MesasController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T21:52:08.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T21:52:08.244Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "APITeste\\Data\\DbRestauranteContext.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T21:48:47.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T21:48:47.683Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "APITeste\\Models\\CadCardapio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T21:48:37.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T21:48:37.712Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "APITeste\\Controllers\\ClientesController.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T06:27:58.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T06:27:58.757Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "APITeste\\Controllers\\CardapioController.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAkwGkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T06:03:49.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T06:03:49.58Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "APITeste\\Controllers\\PedidosController.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAgwHgAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T05:22:27.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T05:22:27.213Z"
             }
           ]
         }
