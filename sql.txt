@@ -1,0 +1,30 @@
+CREATE TABLE cadClientes(
+cdCliente int PRIMARY KEY IDENTITY(1,1),
+dtCriacao DATETIME,
+nmCliente VARCHAR(256),
+)
+
+CREATE TABLE cadCardapio(
+cdPrato int PRIMARY KEY IDENTITY(1,1),
+dtCriacao DATETIME,
+nmPrato varchar(256),
+dsPrato varchar(max),
+preco decimal(10, 2)
+)
+
+CREATE TABLE cadPedido (
+    cdPedido INT PRIMARY KEY IDENTITY(1,1),
+    dtCriacao DATETIME,
+    cdCliente INT NOT NULL,
+    CONSTRAINT FK_cadPedido_cdCliente FOREIGN KEY (cdCliente) REFERENCES cadClientes(cdCliente)
+);
+
+CREATE TABLE cadPedidoPratos (
+    cdPedidoPrato INT PRIMARY KEY IDENTITY(1,1),
+    cdPedido INT NOT NULL,
+    cdPrato INT NOT NULL,
+    quantidade INT NOT NULL DEFAULT 1, 
+    CONSTRAINT FK_cadPedidoPratos_cdPedido FOREIGN KEY (cdPedido) REFERENCES cadPedido(cdPedido),
+    CONSTRAINT FK_cadPedidoPratos_cdPrato FOREIGN KEY (cdPrato) REFERENCES cadCardapio(cdPrato)
+);
+
