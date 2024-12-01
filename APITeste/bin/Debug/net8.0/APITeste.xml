@@ -94,6 +94,44 @@
             Verifica se o cliente existe pelo ID.
             </summary>
         </member>
+        <member name="T:APITeste.Controllers.MesasController">
+            <summary>
+            Controlador para gerenciar mesas.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.MesasController.#ctor(APITeste.Data.DbRestauranteContext)">
+            <summary>
+            Construtor do controlador de mesas.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.MesasController.GetMesas">
+            <summary>
+            Retorna todas as mesas.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.MesasController.GetMesaPorId(System.Int32)">
+            <summary>
+            Retorna uma mesa específica pelo ID.
+            </summary>
+            <param name="id">ID da mesa.</param>
+        </member>
+        <member name="M:APITeste.Controllers.MesasController.Createmesa(APITeste.Models.CadMesa)">
+            <summary>
+            Cria uma nova mesa.
+            </summary>
+            <param name="mesa">Objeto mesa.</param>
+        </member>
+        <member name="M:APITeste.Controllers.MesasController.DeleteMesa(System.Int32)">
+            <summary>
+            Exclui uma mesa.
+            </summary>
+            <param name="id">ID da mesa.</param>
+        </member>
+        <member name="M:APITeste.Controllers.MesasController.mesaExists(System.Int32)">
+            <summary>
+            Verifica se a mesa existe pelo ID.
+            </summary>
+        </member>
         <member name="T:APITeste.Controllers.PedidosController">
             <summary>
             Controlador para gerenciar clientes.
@@ -104,7 +142,7 @@
             Construtor do controlador de pedidos.
             </summary>
         </member>
-        <member name="M:APITeste.Controllers.PedidosController.GetClientes">
+        <member name="M:APITeste.Controllers.PedidosController.GetPedidos">
             <summary>
             Retorna todos os pedidos.
             </summary>
@@ -127,6 +165,44 @@
             Exclui um pedido.
             </summary>
             <param name="id">ID do pedido.</param>
+        </member>
+        <member name="T:APITeste.Controllers.ReservasController">
+            <summary>
+            Controlador para gerenciar clientes.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.ReservasController.#ctor(APITeste.Data.DbRestauranteContext)">
+            <summary>
+            Construtor do controlador de clientes.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.ReservasController.GetReservas">
+            <summary>
+            Retorna todas as reservas.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.ReservasController.GetReservaPorId(System.Int32)">
+            <summary>
+            Retorna uma reservas específica pelo ID.
+            </summary>
+            <param name="id">ID da reserva.</param>
+        </member>
+        <member name="M:APITeste.Controllers.ReservasController.CreateReserva(APITeste.Models.CadReserva)">
+            <summary>
+            Cria um novo reserva.
+            </summary>
+            <param name="reserva">Objeto cliente.</param>
+        </member>
+        <member name="M:APITeste.Controllers.ReservasController.DeleteReserva(System.Int32)">
+            <summary>
+            Exclui uma reserva.
+            </summary>
+            <param name="id">ID do reserva.</param>
+        </member>
+        <member name="M:APITeste.Controllers.ReservasController.ReservaExists(System.Int32)">
+            <summary>
+            Verifica se o cliente existe pelo ID.
+            </summary>
         </member>
     </members>
 </doc>

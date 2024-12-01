@@ -28,3 +28,18 @@ CREATE TABLE cadPedidoPratos (
     CONSTRAINT FK_cadPedidoPratos_cdPrato FOREIGN KEY (cdPrato) REFERENCES cadCardapio(cdPrato)
 );
 
+CREATE TABLE cadMesas(
+cdMesa int PRIMARY KEY IDENTITY(1,1),
+dtCriacao DATETIME
+)
+
+
+CREATE TABLE cadReserva (
+    cdReserva INT PRIMARY KEY IDENTITY (1,1),
+    cdMesa INT,
+    cdCliente INT,
+	nmCliente VARCHAR(256),
+    dtCriacao DATETIME,
+    CONSTRAINT FK_cadReserva_cdMesa FOREIGN KEY (cdMesa) REFERENCES cadMesas(cdMesa),
+    CONSTRAINT FK_cadReserva_cdCliente FOREIGN KEY (cdCliente) REFERENCES cadClientes(cdCliente)
+);

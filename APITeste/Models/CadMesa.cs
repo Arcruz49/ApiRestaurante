@@ -3,15 +3,11 @@ using System.Collections.Generic;
 
 namespace APITeste.Models;
 
-public partial class CadCliente
+public partial class CadMesa
 {
-    public int CdCliente { get; set; }
+    public int CdMesa { get; set; }
 
     public DateTime? DtCriacao { get; set; }
-
-    public string? NmCliente { get; set; }
-
-    public virtual ICollection<CadPedido> CadPedidos { get; set; } = new List<CadPedido>();
 
     public virtual ICollection<CadReserva> CadReservas { get; set; } = new List<CadReserva>();
 }

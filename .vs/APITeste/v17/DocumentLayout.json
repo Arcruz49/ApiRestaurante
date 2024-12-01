@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\models\\cadreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\cadreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\models\\cadpedidoprato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\cadpedidoprato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\models\\cadmesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\cadmesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\controllers\\mesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\mesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\models\\cadcardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\cadcardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\data\\dbrestaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\data\\dbrestaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9CDC3B3-B974-4E7C-BCE8-F8B821054ED3}|APITeste\\APITeste.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\api\\apiteste\\models\\resources\\resourcepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,56 +54,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadPedidoPrato.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\CadPedidoPrato.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\CadPedidoPrato.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\CadPedidoPrato.cs",
+              "RelativeToolTip": "APITeste\\Models\\CadPedidoPrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:28:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "APITeste\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "APITeste\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwE8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:07:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CadReserva.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\CadReserva.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\CadReserva.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\CadReserva.cs",
+              "RelativeToolTip": "APITeste\\Models\\CadReserva.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:06:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadMesa.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\CadMesa.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\CadMesa.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\CadMesa.cs",
+              "RelativeToolTip": "APITeste\\Models\\CadMesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:50:24.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MesasController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\MesasController.cs",
+              "RelativeDocumentMoniker": "APITeste\\Controllers\\MesasController.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\MesasController.cs",
+              "RelativeToolTip": "APITeste\\Controllers\\MesasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:52:08.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbRestauranteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Data\\DbRestauranteContext.cs",
+              "RelativeDocumentMoniker": "APITeste\\Data\\DbRestauranteContext.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Data\\DbRestauranteContext.cs",
+              "RelativeToolTip": "APITeste\\Data\\DbRestauranteContext.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:48:47.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadCardapio.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\CadCardapio.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\CadCardapio.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\CadCardapio.cs",
+              "RelativeToolTip": "APITeste\\Models\\CadCardapio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:48:37.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "APITeste\\Controllers\\ClientesController.cs",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "APITeste\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHMAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T06:27:58.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CardapioController.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\CardapioController.cs",
               "RelativeDocumentMoniker": "APITeste\\Controllers\\CardapioController.cs",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\CardapioController.cs",
               "RelativeToolTip": "APITeste\\Controllers\\CardapioController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwGkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T06:03:49.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ResourcePedido.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\Resources\\ResourcePedido.cs",
               "RelativeDocumentMoniker": "APITeste\\Models\\Resources\\ResourcePedido.cs",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Models\\Resources\\ResourcePedido.cs",
               "RelativeToolTip": "APITeste\\Models\\Resources\\ResourcePedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T05:27:12.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T05:27:12.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "PedidosController.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\PedidosController.cs",
               "RelativeDocumentMoniker": "APITeste\\Controllers\\PedidosController.cs",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\Controllers\\PedidosController.cs",
               "RelativeToolTip": "APITeste\\Controllers\\PedidosController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwHgAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T05:22:27.213Z",
               "EditorCaption": ""

@@ -27,7 +27,7 @@ namespace APITeste.Controllers
         /// Retorna todos os pedidos.
         /// </summary>
         [HttpGet("GetPedidos")]
-        public async Task<ActionResult<IEnumerable<ResourcePedido>>> GetClientes()
+        public async Task<ActionResult<IEnumerable<ResourcePedido>>> GetPedidos()
         {
             var pedidos = await (from cliente in db.CadClientes
                                  join pedido in db.CadPedidos on cliente.CdCliente equals pedido.CdCliente
@@ -171,17 +171,10 @@ namespace APITeste.Controllers
         /// Exclui um pedido.
         /// </summary>
         /// <param name="id">ID do pedido.</param>
-        [HttpDelete("DeletePedido")]
+        [HttpDelete("DeletaPedido")]
         public async Task<IActionResult> DeletePedido(int id)
         {
-            try
-            {
 
-            }
-            catch(Exception ex)
-            {
-
-            }
 
             var cadPedidoPratos = await (from a in db.CadPedidoPratos
                                    where a.CdPedido == id
