@@ -94,5 +94,39 @@
             Verifica se o cliente existe pelo ID.
             </summary>
         </member>
+        <member name="T:APITeste.Controllers.PedidosController">
+            <summary>
+            Controlador para gerenciar clientes.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.PedidosController.#ctor(APITeste.Data.DbRestauranteContext)">
+            <summary>
+            Construtor do controlador de pedidos.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.PedidosController.GetClientes">
+            <summary>
+            Retorna todos os pedidos.
+            </summary>
+        </member>
+        <member name="M:APITeste.Controllers.PedidosController.GetPedidoPorId(System.Int32)">
+            <summary>
+            Retorna um pedido específico pelo ID.
+            </summary>
+            <param name="id">ID do Pedido.</param>
+        </member>
+        <member name="M:APITeste.Controllers.PedidosController.CreatePedido(System.Int32,System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Cria um novo pedido.
+            </summary>
+            <param name="cdCliente">id Cliente.</param>
+            <param name="cdProdutos">lista id Produtos.</param>
+        </member>
+        <member name="M:APITeste.Controllers.PedidosController.DeletePedido(System.Int32)">
+            <summary>
+            Exclui um pedido.
+            </summary>
+            <param name="id">ID do pedido.</param>
+        </member>
     </members>
 </doc>
