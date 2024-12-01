@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arthur Cruz\\source\\repos\\APITeste\\APITeste\\APITeste.csproj": {}
+    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\APITeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arthur Cruz\\source\\repos\\APITeste\\APITeste\\APITeste.csproj": {
+    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\APITeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arthur Cruz\\source\\repos\\APITeste\\APITeste\\APITeste.csproj",
+        "projectUniqueName": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\APITeste.csproj",
         "projectName": "APITeste",
-        "projectPath": "C:\\Users\\Arthur Cruz\\source\\repos\\APITeste\\APITeste\\APITeste.csproj",
+        "projectPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\APITeste.csproj",
         "packagesPath": "C:\\Users\\Arthur Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arthur Cruz\\source\\repos\\APITeste\\APITeste\\obj\\",
+        "outputPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\api\\APITeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
